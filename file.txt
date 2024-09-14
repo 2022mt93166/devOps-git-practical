@@ -1,5 +1,3 @@
 
 # new file
-
-First commit from feature branch
 committing from feature branch
